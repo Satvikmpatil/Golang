@@ -7,9 +7,9 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | Chapter | Topic | Status |
 |---------|-------|--------|
 | 1 | Setting Up Your Go Environment | ✅ Done |
-| 2 | Primitive Types and Declarations | ⏳ Next |
-| 3 | Composite Types | |
-| 4 | Blocks, Shadows, and Control Structures | |
+| 2 | Primitive Types and Declarations | ✅ Done |
+| 3 | Composite Types | ✅ Done |
+| 4 | Blocks, Shadows, and Control Structures | ⏳ Next |
 | 5 | Functions | |
 | 6 | Pointers | |
 | 7 | Types, Methods, and Interfaces | |
