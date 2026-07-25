@@ -9,9 +9,9 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | 1 | Setting Up Your Go Environment | ✅ Done |
 | 2 | Primitive Types and Declarations | ✅ Done |
 | 3 | Composite Types | ✅ Done |
-| 4 | Blocks, Shadows, and Control Structures | ⏳ Next |
-| 5 | Functions | |
-| 6 | Pointers | |
+| 4 | Blocks, Shadows, and Control Structures | |
+| 5 | Functions | ✅ Done |
+| 6 | Pointers | ⏳ Next |
 | 7 | Types, Methods, and Interfaces | |
 | 8 | Generics | |
 | 9 | Errors | |
