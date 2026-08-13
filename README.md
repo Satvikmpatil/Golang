@@ -12,8 +12,8 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | 4 | Blocks, Shadows, and Control Structures | ✅ Done |
 | 5 | Functions | ✅ Done |
 | 6 | Pointers | ✅ Done |
-| 7 | Types, Methods, and Interfaces | ⏳ Next |
-| 8 | Generics | |
+| 7 | Types, Methods, and Interfaces | ✅ Done |
+| 8 | Generics | ⏳ Next |
 | 9 | Errors | |
 | 10 | Modules, Packages, and Imports | |
 | 11 | Go Tooling | |
