@@ -13,9 +13,9 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | 5 | Functions | ✅ Done |
 | 6 | Pointers | ✅ Done |
 | 7 | Types, Methods, and Interfaces | ✅ Done |
-| 8 | Generics | ⏳ Next |
-| 9 | Errors | |
-| 10 | Modules, Packages, and Imports | |
+| 8 | Generics | ✅ Done |
+| 9 | Errors | ✅ Done |
+| 10 | Modules, Packages, and Imports | ⏳ Next |
 | 11 | Go Tooling | |
 | 12 | Concurrency in Go | |
 | 13 | The Standard Library | |
