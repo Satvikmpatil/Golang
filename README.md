@@ -20,7 +20,7 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | 12 | Concurrency in Go | ✅ Done |
 | 13 | The Standard Library | ✅ Done |
 | 14 | The Context | ✅ Done |
-| 15 | Writing Tests | |
+| 15 | Writing Tests | ✅ Done |
 | 16 | Here Be Dragons: Reflect, Unsafe, and Cgo | |
 
 
