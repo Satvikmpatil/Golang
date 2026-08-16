@@ -17,7 +17,7 @@ Notes and code from **"Learning Go: An Idiomatic Approach to Real-World Go Progr
 | 9 | Errors | ✅ Done |
 | 10 | Modules, Packages, and Imports | ✅ Done |
 | 11 | Go Tooling | ✅ Done |
-| 12 | Concurrency in Go | ⏳ Next |
+| 12 | Concurrency in Go | ✅ Done |
 | 13 | The Standard Library | |
 | 14 | The Context | |
 | 15 | Writing Tests | |
