@@ -3,28 +3,23 @@ package main
 import (
 	"fmt"
 
-	"ch_10/math"   // Import local package
-	"ch_10/utils"  // Import another local package
+	"github.com/codersgyan/podcast/auth"
+	"github.com/codersgyan/podcast/user"
+	"github.com/fatih/color"
 )
 
 func main() {
-	// --- Using math package ---
-	fmt.Println("--- Math Package ---")
-	result := math.Double(5)
-	fmt.Println("Double(5):", result)
+	auth.LoginWithCredentials("codersgyan", "secret")
+	session := auth.GetSession()
 
-	result = math.Triple(5)
-	fmt.Println("Triple(5):", result)
+	fmt.Println("session", session)
 
-	// --- Using utils package ---
-	fmt.Println("\n--- Utils Package ---")
-	fmt.Println("Greet:", utils.Greet("Satvik"))
-	fmt.Println("Max:", utils.Max(10, 20))
+	user := user.User{
+		Email: "user@email.com",
+		// Name:  "John Doe",
+	}
 
-	// --- Summary ---
-	fmt.Println("\n--- Summary ---")
-	fmt.Println("Uppercase = Exported (public)")
-	fmt.Println("lowercase = Not exported (private)")
-	fmt.Println("Import: module/package")
-	fmt.Println("Use: package.Function()")
+	// fmt.Println(user.Email, user.Name)
+	color.Green(user.Email)
+
 }
